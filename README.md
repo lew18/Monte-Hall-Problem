@@ -2,8 +2,12 @@
 Simple python program to show odds in Monte Hall problem
 
 What is the controversy?
-In “Let’s make a Deal” last game has three doors. Contestant chooses a door. A losing door is then revealed. The Contestant is then given the option to swap to the unchosen unrevealed door. Should they?
+
+In “Let’s make a Deal” last game has three doors. Contestant chooses a door. A losing door is then revealed. The Contestant is then given the option to swap to the unchosen unrevealed door.
+Should they?
+
 •	Some say “yes, because the unchosen unrevealed door has 2/3 chance of being a winner”.
+
 •	Others say “does not matter since originally selected door and unchosen unrevealed door have equal chance of being a winner”.
 
 
